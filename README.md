@@ -1,2 +1,2 @@
 # random-data-tools
-A random list gerenator
+Utilities to generate random numeric data for testing and learning.
